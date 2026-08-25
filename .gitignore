@@ -105,3 +105,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Archivos generados por Unity 6 y compilaciones locales del proyecto
+*.slnx
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*.apk
+/*.aab
